@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari se presenta y dice lo que puede hacer",
+  "haciendo": "Color de Ari a elegir",
   "paso": 3,
   "pasos": 4,
   "progreso": 75,
-  "siguiente": "Compilar 0.20.0",
+  "siguiente": "Compilar 0.21.0",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:50:14Z",
+  "actualizado": "2026-10-13T22:52:27Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
