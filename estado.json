@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Una Ari para cada usuario: tu nombre y el tono de Ari configurables",
-  "paso": 1,
+  "paso": 2,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Pantalla de primer uso y Ajustes",
+  "progreso": 50,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:10:05Z",
+  "actualizado": "2026-10-13T10:12:08Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
