@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Reconocer tu voz y la de otras personas",
-  "paso": 2,
+  "paso": 4,
   "pasos": 5,
-  "progreso": 35,
-  "siguiente": "Conectar el micrófono, el registro de voces y la privacidad",
+  "progreso": 75,
+  "siguiente": "Compilar la 0.14.0 (reconocer voces) y corregir lo que falle",
   "pendientes": 2,
-  "actualizado": "2026-10-13T20:27:24Z",
+  "actualizado": "2026-10-13T20:32:52Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
