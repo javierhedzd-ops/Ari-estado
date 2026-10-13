@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: Ari 0.26.0 (protegida, con tutora)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Arreglar que Ari no se instalaba (permisos de SMS)",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas en el tablero",
+  "progreso": 75,
+  "siguiente": "Compilar 0.26.1",
   "pendientes": 4,
-  "actualizado": "2026-10-13T23:40:06Z",
+  "actualizado": "2026-10-13T23:53:08Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
