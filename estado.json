@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Tutora personal de cualquier tema",
+  "haciendo": "Proteger a Ari (no es código abierto)",
   "paso": 3,
   "pasos": 4,
   "progreso": 75,
-  "siguiente": "Compilar 0.25.0",
+  "siguiente": "Compilar 0.26.0",
   "pendientes": 4,
-  "actualizado": "2026-10-13T23:27:49Z",
+  "actualizado": "2026-10-13T23:30:26Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
