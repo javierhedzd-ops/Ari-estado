@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Llamar y escribir por WhatsApp a tus contactos por su nombre ('llama a mamá')",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la 0.8.0: 'llama a mamá' y WhatsApp por nombre de contacto. Pruébala.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 60,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
+  "progreso": 100,
+  "siguiente": "Investigar una forma segura de control total de apps",
   "pendientes": 2,
-  "actualizado": "2026-10-13T11:51:21Z",
+  "actualizado": "2026-10-13T11:57:02Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
