@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo: 0.18.1 (arreglo del Status Code 13)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Ari se presenta y dice lo que puede hacer",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas en el tablero",
+  "progreso": 75,
+  "siguiente": "Compilar 0.20.0",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:33:58Z",
+  "actualizado": "2026-10-13T22:50:14Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
