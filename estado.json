@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Estabilidad, segunda ronda: pruebas automáticas, guardado en segundo plano e historial por partes",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la estabilidad (pruebas automáticas, historial por partes) y la personalidad franca (0.3.1). Lo siguiente espera tu respuesta.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 75,
-  "siguiente": "Comprobar la compilación y subir la documentación a Drive",
+  "progreso": 100,
+  "siguiente": "Descarga del modelo desde la app, si la apruebas en el tablero",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:57:47Z",
+  "actualizado": "2026-10-13T10:07:22Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
