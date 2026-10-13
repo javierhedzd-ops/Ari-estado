@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Preparar el lanzamiento en Google Play: política de privacidad, permisos y licencia",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Investigar licencia de Gemma 4 y reglas de Google Play",
+  "progreso": 70,
+  "siguiente": "Comprobar la compilación y subir la documentación",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:48:44Z",
+  "actualizado": "2026-10-13T10:50:25Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
