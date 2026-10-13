@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari enseña a usarla y ayuda en el día a día",
+  "haciendo": "Recados entre Ari por SMS",
   "paso": 3,
   "pasos": 4,
   "progreso": 75,
-  "siguiente": "Compilar 0.23.0",
+  "siguiente": "Compilar 0.24.0",
   "pendientes": 3,
-  "actualizado": "2026-10-13T23:02:29Z",
+  "actualizado": "2026-10-13T23:08:01Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
