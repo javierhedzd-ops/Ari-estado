@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Adjuntos, segunda parte: tomar foto y compartir con Ari desde otras apps",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Tomar foto con la cámara desde Ari",
+  "progreso": 70,
+  "siguiente": "Compilar la 0.12.1 y actualizar Drive",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:10:34Z",
+  "actualizado": "2026-10-13T19:12:28Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
