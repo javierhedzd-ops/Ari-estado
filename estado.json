@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la 0.4.1: recordatorio de respaldo y dos arreglos. Para Play Protect: Más detalles → Instalar de todas formas.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Preparar el lanzamiento en Google Play: política de privacidad, permisos y licencia",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Descarga del modelo desde la app, si la apruebas en el tablero",
+  "progreso": 10,
+  "siguiente": "Investigar licencia de Gemma 4 y reglas de Google Play",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:38:03Z",
+  "actualizado": "2026-10-13T10:48:44Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
