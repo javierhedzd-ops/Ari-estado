@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Investigar una forma segura de que Ari controle otras apps",
+  "haciendo": "Más acciones seguras: música, YouTube, SMS, correo y calendario",
   "paso": 2,
-  "pasos": 3,
-  "progreso": 50,
-  "siguiente": "Escribir la propuesta y ampliar las acciones seguras",
-  "pendientes": 2,
-  "actualizado": "2026-10-13T11:58:44Z",
+  "pasos": 4,
+  "progreso": 30,
+  "siguiente": "Entender 'pon música de…', 'agenda una cita…', 'mándale un mensaje a…'",
+  "pendientes": 3,
+  "actualizado": "2026-10-13T11:59:04Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
