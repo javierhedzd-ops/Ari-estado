@@ -1,11 +1,11 @@
 {
-  "activo": true,
+  "activo": false,
   "haciendo": "Revisión de código de todo lo de hoy (0.10.0 a 0.12.2)",
-  "paso": 2,
+  "paso": 3,
   "pasos": 3,
-  "progreso": 70,
-  "siguiente": "Compilar la 0.12.3 y actualizar Drive",
+  "progreso": 100,
+  "siguiente": "Esperando tu prueba de la 0.12.3 y tus decisiones (voces, caricatura)",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:49:16Z",
+  "actualizado": "2026-10-13T19:56:13Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
