@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Ari recuerda a las personas que le mencionas",
-  "paso": 1,
+  "paso": 4,
   "pasos": 5,
-  "progreso": 10,
-  "siguiente": "Diseñar la libreta de personas",
+  "progreso": 75,
+  "siguiente": "Compilar la 0.13.0 (con pruebas) y actualizar Drive",
   "pendientes": 5,
-  "actualizado": "2026-10-13T20:04:50Z",
+  "actualizado": "2026-10-13T20:09:32Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
