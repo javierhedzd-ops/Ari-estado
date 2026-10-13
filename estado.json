@@ -1,10 +1,10 @@
 {
-  "activo": true,
-  "haciendo": "Construyendo la app Ari Estado y su widget",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la app Ari Estado. Instálala y pon la llave para ver este estado en tu widget.",
+  "paso": 5,
   "pasos": 5,
-  "progreso": 60,
+  "progreso": 100,
   "siguiente": "Exportar e importar la memoria de Ari en un archivo cifrado",
-  "pendientes": 3,
+  "pendientes": 5,
   "actualizado": "2026-10-13T08:45:00Z"
 }
