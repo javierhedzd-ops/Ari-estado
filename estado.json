@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Llamar y escribir por WhatsApp a tus contactos por su nombre ('llama a mamá')",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Entender el nombre del contacto en la frase",
+  "progreso": 60,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 2,
-  "actualizado": "2026-10-13T11:49:24Z",
+  "actualizado": "2026-10-13T11:51:21Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
