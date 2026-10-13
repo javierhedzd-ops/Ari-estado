@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: Ari 0.24.0 (tu Ari CEO y la Ari para otros)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Tutora personal de cualquier tema",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas en el tablero",
+  "progreso": 75,
+  "siguiente": "Compilar 0.25.0",
   "pendientes": 4,
-  "actualizado": "2026-10-13T23:12:30Z",
+  "actualizado": "2026-10-13T23:27:49Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
