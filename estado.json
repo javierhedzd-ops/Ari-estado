@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Modo live, segunda ronda: plática más natural y accesos rápidos",
-  "paso": 1,
+  "paso": 3,
   "pasos": 5,
-  "progreso": 10,
-  "siguiente": "Revisar el código del modo live",
+  "progreso": 55,
+  "siguiente": "Compilando la 0.10.2 y actualizando la documentación",
   "pendientes": 4,
-  "actualizado": "2026-10-13T18:22:45Z",
+  "actualizado": "2026-10-13T18:25:45Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
