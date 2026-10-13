@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Corregir el error Status Code 13 (plática rota tras una respuesta larga)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Listo: 0.18.1 (arreglo del Status Code 13)",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 75,
-  "siguiente": "Compilar 0.18.1",
+  "progreso": 100,
+  "siguiente": "Esperar tus pruebas en el tablero",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:31:11Z",
+  "actualizado": "2026-10-13T22:33:58Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
