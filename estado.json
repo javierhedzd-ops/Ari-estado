@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Preparar el lanzamiento en Google Play: política de privacidad, permisos y licencia",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Preparé el lanzamiento en Google Play (0.4.2): licencias en la app, política de privacidad y guía. Lo siguiente espera tus respuestas.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 70,
-  "siguiente": "Comprobar la compilación y subir la documentación",
-  "pendientes": 4,
-  "actualizado": "2026-10-13T10:50:25Z",
+  "progreso": 100,
+  "siguiente": "Descarga del modelo desde la app o cuenta de Google Play, según respondas",
+  "pendientes": 5,
+  "actualizado": "2026-10-13T10:57:35Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
