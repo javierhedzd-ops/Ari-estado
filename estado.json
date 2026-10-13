@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la 0.7.0: descarga de Gemma desde la app y aviso cuando Ari termina una tarea. Pruébala.",
-  "paso": 5,
-  "pasos": 5,
-  "progreso": 100,
-  "siguiente": "Investigar una forma segura de control total de apps; contactos para 'llama a mamá'",
-  "pendientes": 4,
-  "actualizado": "2026-10-13T11:44:03Z",
+  "activo": true,
+  "haciendo": "Llamar y escribir por WhatsApp a tus contactos por su nombre ('llama a mamá')",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 10,
+  "siguiente": "Entender el nombre del contacto en la frase",
+  "pendientes": 2,
+  "actualizado": "2026-10-13T11:49:24Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
