@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Preparé el lanzamiento en Google Play (0.4.2): licencias en la app, política de privacidad y guía. Lo siguiente espera tus respuestas.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Recordatorios: Ari te avisa con una notificación a la hora que le pidas",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Descarga del modelo desde la app o cuenta de Google Play, según respondas",
-  "pendientes": 5,
-  "actualizado": "2026-10-13T10:57:35Z",
+  "progreso": 10,
+  "siguiente": "Entender frases como 'recuérdame mañana a las 9 llamar a mamá'",
+  "pendientes": 6,
+  "actualizado": "2026-10-13T11:06:43Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
