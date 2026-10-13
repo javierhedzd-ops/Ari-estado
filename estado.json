@@ -1,10 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la app Ari Estado. Instálala y pon la llave para ver este estado en tu widget.",
-  "paso": 5,
-  "pasos": 5,
-  "progreso": 100,
+  "activo": true,
+  "haciendo": "Corrigiendo el cierre de Ari Estado",
+  "paso": 2,
+  "pasos": 3,
+  "progreso": 60,
   "siguiente": "Exportar e importar la memoria de Ari en un archivo cifrado",
   "pendientes": 5,
-  "actualizado": "2026-10-13T08:45:00Z"
+  "actualizado": "2026-10-13T09:10:00Z",
+  "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
