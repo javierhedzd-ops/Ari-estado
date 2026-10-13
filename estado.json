@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari en segundo plano en el modo live (y seguridad del micrófono)",
+  "haciendo": "Adjuntar imágenes y documentos (y Ari en segundo plano)",
   "paso": 3,
   "pasos": 4,
-  "progreso": 70,
-  "siguiente": "Compilar la 0.11.0 y actualizar Drive",
+  "progreso": 75,
+  "siguiente": "Compilar la 0.12.0 y actualizar Drive",
   "pendientes": 5,
-  "actualizado": "2026-10-13T18:54:16Z",
+  "actualizado": "2026-10-13T18:59:59Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
