@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Reconocer tu voz y la de otras personas",
-  "paso": 4,
+  "haciendo": "Ari ve tu pantalla cuando se lo pides y te escribe en un chat de notificaciones",
+  "paso": 1,
   "pasos": 5,
-  "progreso": 75,
-  "siguiente": "Compilar la 0.14.0 (reconocer voces) y corregir lo que falle",
+  "progreso": 10,
+  "siguiente": "Mirar la pantalla con permiso de Android",
   "pendientes": 2,
-  "actualizado": "2026-10-13T20:32:52Z",
+  "actualizado": "2026-10-13T20:43:03Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
