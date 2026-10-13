@@ -1,11 +1,11 @@
 {
   "activo": false,
-  "haciendo": "Modo live, segunda ronda: plática más natural y accesos rápidos",
-  "paso": 5,
-  "pasos": 5,
+  "haciendo": "Plan para que Ari reconozca voces",
+  "paso": 1,
+  "pasos": 1,
   "progreso": 100,
-  "siguiente": "Esperando tu prueba de la 0.10.2 y tu idea para la caricatura definitiva",
-  "pendientes": 4,
-  "actualizado": "2026-10-13T18:35:18Z",
+  "siguiente": "Esperando tu decisión sobre reconocer voces y tu prueba de la 0.10.2",
+  "pendientes": 5,
+  "actualizado": "2026-10-13T18:36:44Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
