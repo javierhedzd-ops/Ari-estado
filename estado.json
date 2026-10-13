@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Ari abre apps y hace acciones en tu teléfono (WhatsApp, llamadas, alarmas, mapas)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé: Ari abre apps y prepara acciones en tu teléfono (0.6.0). Pruébala; el control total de otras apps espera tu decisión.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 60,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
+  "progreso": 100,
+  "siguiente": "Según tus respuestas: control total, contactos, mensajes de Ari o descarga del modelo",
   "pendientes": 7,
-  "actualizado": "2026-10-13T11:21:51Z",
+  "actualizado": "2026-10-13T11:32:06Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
