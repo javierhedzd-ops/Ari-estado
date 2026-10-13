@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari ve tu pantalla y te escribe en un chat de notificaciones",
-  "paso": 4,
-  "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Compilar 0.15.0 y avisarte para probar",
+  "haciendo": "Ari elige el modelo según el teléfono (versión básica para otros teléfonos)",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 10,
+  "siguiente": "Revisar el modelo ligero E2B",
   "pendientes": 2,
-  "actualizado": "2026-10-13T20:52:00Z",
+  "actualizado": "2026-10-13T20:56:25Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
