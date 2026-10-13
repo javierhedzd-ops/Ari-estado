@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la 0.9.0 (música, YouTube, SMS, correo, calendario) y la propuesta de control total por etapas. Pruébala y elige en el tablero.",
-  "paso": 4,
-  "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Según tu respuesta sobre las etapas del control de apps",
+  "activo": true,
+  "haciendo": "Ari con cara: iconos nuevos, widget animado y modo live con conversación fluida",
+  "paso": 1,
+  "pasos": 6,
+  "progreso": 5,
+  "siguiente": "Revisar la voz, el widget y los iconos actuales",
   "pendientes": 3,
-  "actualizado": "2026-10-13T17:54:10Z",
+  "actualizado": "2026-10-13T17:54:59Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
