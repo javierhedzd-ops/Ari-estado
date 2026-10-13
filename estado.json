@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la estabilidad (pruebas automáticas, historial por partes) y la personalidad franca (0.3.1). Lo siguiente espera tu respuesta.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Una Ari para cada usuario: tu nombre y el tono de Ari configurables",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Descarga del modelo desde la app, si la apruebas en el tablero",
+  "progreso": 10,
+  "siguiente": "Pantalla de primer uso y Ajustes",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:07:22Z",
+  "actualizado": "2026-10-13T10:10:05Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
