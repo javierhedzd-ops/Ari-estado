@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Revisión de código de todo lo de hoy (0.10.0 a 0.12.2)",
-  "paso": 3,
-  "pasos": 3,
-  "progreso": 100,
-  "siguiente": "Esperando tu prueba de la 0.12.3 y tus decisiones (voces, caricatura)",
+  "activo": true,
+  "haciendo": "Ari recuerda a las personas que le mencionas",
+  "paso": 1,
+  "pasos": 5,
+  "progreso": 10,
+  "siguiente": "Diseñar la libreta de personas",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:56:13Z",
+  "actualizado": "2026-10-13T20:04:50Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
