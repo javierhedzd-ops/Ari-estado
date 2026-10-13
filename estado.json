@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Exportar e importar la memoria de Ari en un archivo cifrado",
-  "paso": 1,
+  "paso": 2,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Escribir el cifrado y los botones de exportar e importar",
+  "progreso": 50,
+  "siguiente": "Comprobar que compila en GitHub Actions",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:41:25Z",
+  "actualizado": "2026-10-13T09:44:23Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
