@@ -1,11 +1,11 @@
 {
-  "activo": true,
+  "activo": false,
   "haciendo": "Revisión antes de tu prueba: pláticas largas sin errores",
-  "paso": 2,
+  "paso": 3,
   "pasos": 3,
-  "progreso": 65,
-  "siguiente": "Compilar la 0.12.2 y actualizar Drive",
+  "progreso": 100,
+  "siguiente": "Esperando tu prueba de la 0.12.2 y tus decisiones (voces, caricatura)",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:23:37Z",
+  "actualizado": "2026-10-13T19:30:53Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
