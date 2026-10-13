@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Color de Ari a elegir",
+  "haciendo": "Dos versiones: solo tu Ari es la CEO",
   "paso": 3,
   "pasos": 4,
   "progreso": 75,
-  "siguiente": "Compilar 0.21.0",
+  "siguiente": "Compilar 0.22.0",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:52:27Z",
+  "actualizado": "2026-10-13T22:59:33Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
