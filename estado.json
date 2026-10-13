@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Recados entre Ari por SMS",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Listo para probar: Ari 0.24.0 (tu Ari CEO y la Ari para otros)",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 75,
-  "siguiente": "Compilar 0.24.0",
-  "pendientes": 3,
-  "actualizado": "2026-10-13T23:08:01Z",
+  "progreso": 100,
+  "siguiente": "Esperar tus pruebas en el tablero",
+  "pendientes": 4,
+  "actualizado": "2026-10-13T23:12:30Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
