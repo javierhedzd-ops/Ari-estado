@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Ari abre apps y hace acciones en tu teléfono (WhatsApp, llamadas, alarmas, mapas)",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Entender frases como 'abre WhatsApp' o 'pon una alarma a las 7'",
+  "progreso": 60,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 7,
-  "actualizado": "2026-10-13T11:18:28Z",
+  "actualizado": "2026-10-13T11:21:51Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
