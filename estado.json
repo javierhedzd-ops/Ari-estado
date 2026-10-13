@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Ari con cara: iconos nuevos, widget animado y modo live con conversación fluida",
-  "paso": 1,
+  "paso": 4,
   "pasos": 6,
-  "progreso": 5,
-  "siguiente": "Revisar la voz, el widget y los iconos actuales",
+  "progreso": 65,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 3,
-  "actualizado": "2026-10-13T17:54:59Z",
+  "actualizado": "2026-10-13T18:01:16Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
