@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la 0.8.0: 'llama a mamá' y WhatsApp por nombre de contacto. Pruébala.",
-  "paso": 4,
-  "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Investigar una forma segura de control total de apps",
+  "activo": true,
+  "haciendo": "Investigar una forma segura de que Ari controle otras apps",
+  "paso": 2,
+  "pasos": 3,
+  "progreso": 50,
+  "siguiente": "Escribir la propuesta y ampliar las acciones seguras",
   "pendientes": 2,
-  "actualizado": "2026-10-13T11:57:02Z",
+  "actualizado": "2026-10-13T11:58:44Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
