@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Revisión antes de tu prueba: pláticas largas sin errores",
-  "paso": 3,
+  "activo": true,
+  "haciendo": "Revisión de código de todo lo de hoy (0.10.0 a 0.12.2)",
+  "paso": 1,
   "pasos": 3,
-  "progreso": 100,
-  "siguiente": "Esperando tu prueba de la 0.12.2 y tus decisiones (voces, caricatura)",
+  "progreso": 15,
+  "siguiente": "Corregir lo que encuentre la revisión",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:30:53Z",
+  "actualizado": "2026-10-13T19:43:38Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
