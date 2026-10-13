@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Adjuntos, Ari en segundo plano y seguridad del micrófono (0.12.0)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Adjuntos, segunda parte: tomar foto y compartir con Ari desde otras apps",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperando tu prueba de la 0.12.0 y tu decisión sobre reconocer voces",
+  "progreso": 10,
+  "siguiente": "Tomar foto con la cámara desde Ari",
   "pendientes": 5,
-  "actualizado": "2026-10-13T19:09:11Z",
+  "actualizado": "2026-10-13T19:10:34Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
