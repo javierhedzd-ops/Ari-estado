@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Ari elige el modelo según el teléfono (versión básica para otros teléfonos)",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Revisar el modelo ligero E2B",
+  "progreso": 75,
+  "siguiente": "Compilar 0.16.0",
   "pendientes": 2,
-  "actualizado": "2026-10-13T20:56:25Z",
+  "actualizado": "2026-10-13T20:59:00Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
