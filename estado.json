@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé el respaldo cifrado de la memoria. Instala y prueba; necesito tu respuesta sobre la personalidad.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Estabilidad, segunda ronda: pruebas automáticas y base de datos fuera del hilo principal",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Primer uso guiado: descargar el modelo desde la app",
+  "progreso": 10,
+  "siguiente": "Escribir pruebas automáticas de las reglas de Ari",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:50:35Z",
+  "actualizado": "2026-10-13T09:51:44Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
