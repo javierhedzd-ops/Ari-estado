@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Recordatorios: Ari te avisa con una notificación a la hora que le pidas",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé los recordatorios (0.5.0): Ari te avisa con una notificación aunque esté cerrada. Pruébalos.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 60,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
+  "progreso": 100,
+  "siguiente": "Según tus respuestas: mensajes propios de Ari, descarga del modelo o Google Play",
   "pendientes": 6,
-  "actualizado": "2026-10-13T11:11:08Z",
+  "actualizado": "2026-10-13T11:16:55Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
