@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Recordatorios: Ari te avisa con una notificación a la hora que le pidas",
-  "paso": 1,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Entender frases como 'recuérdame mañana a las 9 llamar a mamá'",
+  "progreso": 60,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 6,
-  "actualizado": "2026-10-13T11:06:43Z",
+  "actualizado": "2026-10-13T11:11:08Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
