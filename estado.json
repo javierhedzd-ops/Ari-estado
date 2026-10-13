@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo: 0.18.0 (modelo según el teléfono, informe de fallos y mejor memoria de Gemma)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Corregir el error Status Code 13 (plática rota tras una respuesta larga)",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas en el tablero",
+  "progreso": 75,
+  "siguiente": "Compilar 0.18.1",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:28:51Z",
+  "actualizado": "2026-10-13T22:31:11Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
