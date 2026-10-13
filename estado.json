@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Dos versiones: solo tu Ari es la CEO",
+  "haciendo": "Ari enseña a usarla y ayuda en el día a día",
   "paso": 3,
   "pasos": 4,
   "progreso": 75,
-  "siguiente": "Compilar 0.22.0",
+  "siguiente": "Compilar 0.23.0",
   "pendientes": 3,
-  "actualizado": "2026-10-13T22:59:33Z",
+  "actualizado": "2026-10-13T23:02:29Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
