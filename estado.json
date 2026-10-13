@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari recuerda a las personas que le mencionas",
-  "paso": 4,
-  "pasos": 5,
-  "progreso": 75,
-  "siguiente": "Compilar la 0.13.0 (con pruebas) y actualizar Drive",
-  "pendientes": 5,
-  "actualizado": "2026-10-13T20:09:32Z",
+  "haciendo": "Tus respuestas: Ari más rápida (GPU), esfera más elaborada y reconocer voces",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 20,
+  "siguiente": "Compilar la 0.13.1 (GPU) y seguir con la esfera",
+  "pendientes": 1,
+  "actualizado": "2026-10-13T20:21:02Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
