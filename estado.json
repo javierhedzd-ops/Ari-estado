@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé la interfaz estilo Claude en color hielo y los iconos. Instálala y prueba.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Exportar e importar la memoria de Ari en un archivo cifrado",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Exportar e importar la memoria de Ari en un archivo cifrado",
+  "progreso": 10,
+  "siguiente": "Escribir el cifrado y los botones de exportar e importar",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:30:00Z",
+  "actualizado": "2026-10-13T09:41:25Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
