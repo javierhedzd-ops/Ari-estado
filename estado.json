@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Revisión del código nuevo y recordatorio de respaldo",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la 0.4.1: recordatorio de respaldo y dos arreglos. Para Play Protect: Más detalles → Instalar de todas formas.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 70,
-  "siguiente": "Comprobar que compila y subir la documentación a Drive",
+  "progreso": 100,
+  "siguiente": "Descarga del modelo desde la app, si la apruebas en el tablero",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:33:16Z",
+  "actualizado": "2026-10-13T10:38:03Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
