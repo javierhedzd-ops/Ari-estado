@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Descargar el modelo Gemma desde la app y avisarte cuando Ari termine una tarea",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la 0.7.0: descarga de Gemma desde la app y aviso cuando Ari termina una tarea. Pruébala.",
+  "paso": 5,
   "pasos": 5,
-  "progreso": 60,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
-  "pendientes": 2,
-  "actualizado": "2026-10-13T11:37:38Z",
+  "progreso": 100,
+  "siguiente": "Investigar una forma segura de control total de apps; contactos para 'llama a mamá'",
+  "pendientes": 4,
+  "actualizado": "2026-10-13T11:44:03Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
