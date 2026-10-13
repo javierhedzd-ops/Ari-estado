@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Corrigiendo el cierre de Ari Estado",
-  "paso": 2,
+  "activo": false,
+  "haciendo": "Corregí el cierre de Ari Estado. Instala la versión nueva y prueba.",
+  "paso": 3,
   "pasos": 3,
-  "progreso": 60,
+  "progreso": 100,
   "siguiente": "Exportar e importar la memoria de Ari en un archivo cifrado",
   "pendientes": 5,
-  "actualizado": "2026-10-13T09:10:00Z",
+  "actualizado": "2026-10-13T09:20:00Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
