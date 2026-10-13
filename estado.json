@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Terminé los recordatorios (0.5.0): Ari te avisa con una notificación aunque esté cerrada. Pruébalos.",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Ari abre apps y hace acciones en tu teléfono (WhatsApp, llamadas, alarmas, mapas)",
+  "paso": 1,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Según tus respuestas: mensajes propios de Ari, descarga del modelo o Google Play",
-  "pendientes": 6,
-  "actualizado": "2026-10-13T11:16:55Z",
+  "progreso": 10,
+  "siguiente": "Entender frases como 'abre WhatsApp' o 'pon una alarma a las 7'",
+  "pendientes": 7,
+  "actualizado": "2026-10-13T11:18:28Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
