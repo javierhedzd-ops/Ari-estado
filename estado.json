@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Estabilidad, segunda ronda: pruebas automáticas y base de datos fuera del hilo principal",
-  "paso": 1,
+  "paso": 2,
   "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Escribir pruebas automáticas de las reglas de Ari",
+  "progreso": 50,
+  "siguiente": "Comprobar que las pruebas pasan en GitHub Actions",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:51:44Z",
+  "actualizado": "2026-10-13T09:54:17Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
