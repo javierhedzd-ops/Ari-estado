@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Estabilidad, segunda ronda: pruebas automáticas y base de datos fuera del hilo principal",
-  "paso": 2,
+  "haciendo": "Estabilidad, segunda ronda: pruebas automáticas, guardado en segundo plano e historial por partes",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 50,
-  "siguiente": "Comprobar que las pruebas pasan en GitHub Actions",
+  "progreso": 75,
+  "siguiente": "Comprobar la compilación y subir la documentación a Drive",
   "pendientes": 4,
-  "actualizado": "2026-10-13T09:54:17Z",
+  "actualizado": "2026-10-13T09:57:47Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
