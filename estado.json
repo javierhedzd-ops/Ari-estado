@@ -1,11 +1,11 @@
 {
   "activo": true,
   "haciendo": "Más acciones seguras: música, YouTube, SMS, correo y calendario",
-  "paso": 2,
+  "paso": 3,
   "pasos": 4,
-  "progreso": 30,
-  "siguiente": "Entender 'pon música de…', 'agenda una cita…', 'mándale un mensaje a…'",
+  "progreso": 70,
+  "siguiente": "Comprobar que compila y pasan las pruebas",
   "pendientes": 3,
-  "actualizado": "2026-10-13T11:59:04Z",
+  "actualizado": "2026-10-13T12:01:57Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
