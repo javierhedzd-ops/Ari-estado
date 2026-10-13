@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Más acciones seguras: música, YouTube, SMS, correo y calendario",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Terminé la 0.9.0 (música, YouTube, SMS, correo, calendario) y la propuesta de control total por etapas. Pruébala y elige en el tablero.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 70,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
+  "progreso": 100,
+  "siguiente": "Según tu respuesta sobre las etapas del control de apps",
   "pendientes": 3,
-  "actualizado": "2026-10-13T12:01:57Z",
+  "actualizado": "2026-10-13T17:54:10Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
