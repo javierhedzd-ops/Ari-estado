@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Una Ari para cada usuario: tu nombre y el tono de Ari configurables",
-  "paso": 2,
+  "activo": false,
+  "haciendo": "Terminé 'una Ari para cada usuario' (0.4.0): tu nombre y el tono en Ajustes. Pruébala; lo siguiente espera tu decisión sobre la descarga del modelo.",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 50,
-  "siguiente": "Comprobar que compila y pasan las pruebas",
+  "progreso": 100,
+  "siguiente": "Descarga del modelo desde la app, si la apruebas en el tablero",
   "pendientes": 4,
-  "actualizado": "2026-10-13T10:12:08Z",
+  "actualizado": "2026-10-13T10:15:56Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
