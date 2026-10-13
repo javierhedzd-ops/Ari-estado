@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Plan para que Ari reconozca voces",
+  "activo": true,
+  "haciendo": "Seguridad: que solo Ari pueda abrir su modo live (micrófono)",
   "paso": 1,
-  "pasos": 1,
-  "progreso": 100,
-  "siguiente": "Esperando tu decisión sobre reconocer voces y tu prueba de la 0.10.2",
+  "pasos": 4,
+  "progreso": 15,
+  "siguiente": "Cambiar cómo el widget y los accesos abren el modo live",
   "pendientes": 5,
-  "actualizado": "2026-10-13T18:36:44Z",
+  "actualizado": "2026-10-13T18:49:52Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
