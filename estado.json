@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: Ari 0.39.0",
-  "paso": 5,
+  "activo": true,
+  "haciendo": "Carita de Ari que habla y mejor interfaz",
+  "paso": 1,
   "pasos": 5,
-  "progreso": 100,
-  "siguiente": "Esperar tu prueba en el tablero",
+  "progreso": 10,
+  "siguiente": "Revisar cómo se dibuja la carita",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:11:38Z",
+  "actualizado": "2026-10-14T04:22:33Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
