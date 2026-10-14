@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Compilando Ari Estado 0.3.0 (sin llave)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Listo para probar: ARI 0.54 y Ari Estado 0.3.0",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 75,
-  "siguiente": "Mandarte los enlaces de ARI 0.54 y Ari Estado 0.3.0",
-  "pendientes": 15,
-  "actualizado": "2026-10-14T18:08:49Z",
+  "progreso": 100,
+  "siguiente": "Esperar tu prueba en el tablero",
+  "pendientes": 16,
+  "actualizado": "2026-10-14T18:40:56Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
