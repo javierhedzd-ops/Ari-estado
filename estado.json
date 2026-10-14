@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Rutinas: Ari aprende órdenes nuevas sin reinstalar",
-  "paso": 1,
+  "haciendo": "Rutinas: Ari aprende órdenes nuevas (0.38.0)",
+  "paso": 3,
   "pasos": 5,
-  "progreso": 10,
-  "siguiente": "Diseñar cómo se enseñan y se guardan",
-  "pendientes": 4,
-  "actualizado": "2026-10-14T03:59:48Z",
+  "progreso": 60,
+  "siguiente": "Compilar 0.38 y empezar las propuestas de mejora (A)",
+  "pendientes": 1,
+  "actualizado": "2026-10-14T04:02:38Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
