@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "En pausa",
-  "paso": 1,
-  "pasos": 1,
-  "progreso": 100,
-  "siguiente": "Tú: tareas del tablero",
-  "pendientes": 21,
-  "actualizado": "2026-10-14T10:43:49Z",
+  "activo": true,
+  "haciendo": "Compilando ARI 0.54 (Configurar Ari)",
+  "paso": 4,
+  "pasos": 5,
+  "progreso": 80,
+  "siguiente": "Ari Estado sin llave y mandarte el enlace",
+  "pendientes": 2,
+  "actualizado": "2026-10-14T12:35:12Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
