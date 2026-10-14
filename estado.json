@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Carita de Ari que habla y mejor interfaz",
-  "paso": 1,
+  "haciendo": "Carita de Ari que habla y piensa (0.40.0)",
+  "paso": 4,
   "pasos": 5,
-  "progreso": 10,
-  "siguiente": "Revisar cómo se dibuja la carita",
+  "progreso": 80,
+  "siguiente": "Compilar 0.40 y seguir mejorando la interfaz",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:22:33Z",
+  "actualizado": "2026-10-14T04:27:56Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
