@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Accesos nuevos de Ari CEO: teléfono y ajustes",
-  "paso": 2,
+  "haciendo": "Accesos de Ari CEO: agenda y fotos",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 35,
-  "siguiente": "Linterna, volumen, música, no molestar, bloquear, captura y llamar",
+  "progreso": 60,
+  "siguiente": "Crear citas y buscar fotos; luego uso del teléfono",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:58:42Z",
+  "actualizado": "2026-10-14T09:20:32Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
