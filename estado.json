@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Compilando ARI 0.58 (tus apps son sus herramientas)",
-  "paso": 1,
+  "activo": false,
+  "haciendo": "Listo para probar: ARI 0.57 y 0.58",
+  "paso": 2,
   "pasos": 2,
-  "progreso": 60,
-  "siguiente": "Mandarte los enlaces de 0.57 y 0.58",
-  "pendientes": 18,
-  "actualizado": "2026-10-14T20:53:10Z",
+  "progreso": 100,
+  "siguiente": "Esperar tus pruebas",
+  "pendientes": 20,
+  "actualizado": "2026-10-14T21:05:59Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
