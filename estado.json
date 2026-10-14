@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Ari 0.37.0 lista para probar",
-  "paso": 6,
-  "pasos": 6,
-  "progreso": 100,
-  "siguiente": "Esperar tu prueba y seguir con las rutinas (Ari se mejora sola)",
+  "activo": true,
+  "haciendo": "Rutinas: Ari aprende órdenes nuevas sin reinstalar",
+  "paso": 1,
+  "pasos": 5,
+  "progreso": 10,
+  "siguiente": "Diseñar cómo se enseñan y se guardan",
   "pendientes": 4,
-  "actualizado": "2026-10-14T03:57:12Z",
+  "actualizado": "2026-10-14T03:59:48Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
