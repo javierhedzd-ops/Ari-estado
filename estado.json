@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: ARI 0.54 y Ari Estado 0.3.0",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Compilando ARI 0.55 (cumpleaños y burbuja sin aviso)",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tu prueba en el tablero",
+  "progreso": 75,
+  "siguiente": "Mandarte el enlace de la 0.55",
   "pendientes": 16,
-  "actualizado": "2026-10-14T18:40:56Z",
+  "actualizado": "2026-10-14T19:12:30Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
