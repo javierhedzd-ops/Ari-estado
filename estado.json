@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Ari CEO se propone mejoras (0.39.0)",
-  "paso": 4,
+  "activo": false,
+  "haciendo": "Listo para probar: Ari 0.39.0",
+  "paso": 5,
   "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Compilar 0.38 y 0.39 y mandarte el enlace",
+  "progreso": 100,
+  "siguiente": "Esperar tu prueba en el tablero",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:04:37Z",
+  "actualizado": "2026-10-14T04:11:38Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
