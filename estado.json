@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Compilando ARI 0.60 (burbuja en el borde y guardar wifi)",
-  "paso": 1,
-  "pasos": 2,
-  "progreso": 60,
-  "siguiente": "Mandarte el enlace de la 0.60",
+  "haciendo": "ARI Trader Parte 1: compilando el sabor nuevo",
+  "paso": 3,
+  "pasos": 4,
+  "progreso": 80,
+  "siguiente": "Mandarte el APK de ARI Trader",
   "pendientes": 20,
-  "actualizado": "2026-10-14T21:41:43Z",
+  "actualizado": "2026-10-14T22:04:22Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
