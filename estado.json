@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Ver cómo te entendió ARI",
+  "activo": false,
+  "haciendo": "En pausa",
   "paso": 1,
-  "pasos": 4,
-  "progreso": 10,
-  "siguiente": "Anotar qué camino toma cada mensaje",
+  "pasos": 1,
+  "progreso": 100,
+  "siguiente": "Tú: tareas del tablero",
   "pendientes": 21,
-  "actualizado": "2026-10-14T10:43:28Z",
+  "actualizado": "2026-10-14T10:43:49Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
