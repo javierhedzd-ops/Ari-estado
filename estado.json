@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: ARI 0.57 y 0.58",
-  "paso": 2,
-  "pasos": 2,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas",
+  "activo": true,
+  "haciendo": "Compilando ARI 0.59 (elegir la voz: velocidad y tono)",
+  "paso": 3,
+  "pasos": 4,
+  "progreso": 75,
+  "siguiente": "Mandarte el enlace de la 0.59",
   "pendientes": 20,
-  "actualizado": "2026-10-14T21:05:59Z",
+  "actualizado": "2026-10-14T21:29:23Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
