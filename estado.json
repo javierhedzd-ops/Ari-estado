@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Accesos de Ari CEO: agenda y fotos",
-  "paso": 3,
+  "haciendo": "Accesos de Ari CEO: uso del teléfono",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 60,
-  "siguiente": "Crear citas y buscar fotos; luego uso del teléfono",
+  "progreso": 85,
+  "siguiente": "Tiempo en apps y pasos; luego compilar y mandarte el enlace",
   "pendientes": 1,
-  "actualizado": "2026-10-14T09:20:32Z",
+  "actualizado": "2026-10-14T09:23:50Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
