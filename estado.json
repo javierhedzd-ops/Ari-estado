@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Mejoras: agenda, comandos de voz, novedades, cerebro de Ari",
-  "paso": 1,
+  "haciendo": "Mejoras: burbuja, interrumpir hablando, cerebro, agenda",
+  "paso": 4,
   "pasos": 6,
-  "progreso": 15,
-  "siguiente": "Cerebro portátil: Ari aprende de sus pláticas",
+  "progreso": 65,
+  "siguiente": "Compilar 0.29.0 y después: siempre en live con la palabra Ari",
   "pendientes": 4,
-  "actualizado": "2026-10-14T03:05:03Z",
+  "actualizado": "2026-10-14T03:10:01Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
