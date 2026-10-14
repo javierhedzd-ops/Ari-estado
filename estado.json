@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo: ARI 0.49 y Ari Estado 0.2.0",
-  "paso": 5,
-  "pasos": 5,
-  "progreso": 100,
-  "siguiente": "Tú: tareas del tablero",
+  "activo": true,
+  "haciendo": "Ver cómo te entendió ARI",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 10,
+  "siguiente": "Anotar qué camino toma cada mensaje",
   "pendientes": 21,
-  "actualizado": "2026-10-14T10:34:38Z",
+  "actualizado": "2026-10-14T10:43:28Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
