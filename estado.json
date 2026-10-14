@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Mejoras: burbuja, interrumpir hablando, cerebro, agenda",
-  "paso": 4,
+  "haciendo": "Recados: contactos rápidos y envío desde la burbuja",
+  "paso": 5,
   "pasos": 6,
-  "progreso": 65,
-  "siguiente": "Compilar 0.29.0 y después: siempre en live con la palabra Ari",
+  "progreso": 85,
+  "siguiente": "Compilar 0.33.0 y mandarte el enlace",
   "pendientes": 4,
-  "actualizado": "2026-10-14T03:10:01Z",
+  "actualizado": "2026-10-14T03:31:53Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
