@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Leer con calma el chat (0.36.0)",
+  "haciendo": "Ari responde a su nombre (0.37.0)",
   "paso": 5,
   "pasos": 6,
   "progreso": 85,
-  "siguiente": "Compilar 0.33 a 0.36 y mandarte el enlace",
-  "pendientes": 4,
-  "actualizado": "2026-10-14T03:38:26Z",
+  "siguiente": "Compilar 0.37 y mandarte el enlace para probar",
+  "pendientes": 3,
+  "actualizado": "2026-10-14T03:49:29Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
