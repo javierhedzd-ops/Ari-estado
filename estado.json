@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Listo para probar: ARI 0.56 (Mi gente)",
-  "paso": 4,
-  "pasos": 4,
-  "progreso": 100,
-  "siguiente": "Esperar tus pruebas y lo de la app comercial",
+  "activo": true,
+  "haciendo": "ARI 0.57: informes de fallos automáticos y actualizarse desde GitHub",
+  "paso": 1,
+  "pasos": 5,
+  "progreso": 10,
+  "siguiente": "Informes automáticos (cola sin red, permiso)",
   "pendientes": 18,
-  "actualizado": "2026-10-14T19:42:50Z",
+  "actualizado": "2026-10-14T20:37:15Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
