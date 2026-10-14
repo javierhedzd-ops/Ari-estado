@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Compilando ARI 0.56 (Mi gente: la libreta en una pantalla)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Listo para probar: ARI 0.56 (Mi gente)",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 75,
-  "siguiente": "Mandarte el enlace de la 0.56",
-  "pendientes": 17,
-  "actualizado": "2026-10-14T19:34:27Z",
+  "progreso": 100,
+  "siguiente": "Esperar tus pruebas y lo de la app comercial",
+  "pendientes": 18,
+  "actualizado": "2026-10-14T19:42:50Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
