@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Ari CEO maneja tus apps (0.42.0)",
-  "paso": 4,
-  "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Compilar 0.42 y mandarte el enlace",
+  "haciendo": "Accesos nuevos de Ari CEO: notificaciones",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 5,
+  "siguiente": "Notificaciones, teléfono y ajustes, agenda y fotos, uso del teléfono",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:36:52Z",
+  "actualizado": "2026-10-14T04:56:35Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
