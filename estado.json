@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Accesos de Ari CEO: uso del teléfono",
-  "paso": 4,
-  "pasos": 4,
-  "progreso": 85,
-  "siguiente": "Tiempo en apps y pasos; luego compilar y mandarte el enlace",
-  "pendientes": 1,
-  "actualizado": "2026-10-14T09:23:50Z",
+  "activo": false,
+  "haciendo": "Listo para probar: ARI 0.47",
+  "paso": 5,
+  "pasos": 5,
+  "progreso": 100,
+  "siguiente": "Tú: tareas 1 a 20 en el tablero",
+  "pendientes": 21,
+  "actualizado": "2026-10-14T09:41:23Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
