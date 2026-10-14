@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Carita de Ari que habla y piensa (0.40.0)",
+  "haciendo": "Ari CEO maneja tus apps (0.42.0)",
   "paso": 4,
   "pasos": 5,
   "progreso": 80,
-  "siguiente": "Compilar 0.40 y seguir mejorando la interfaz",
+  "siguiente": "Compilar 0.42 y mandarte el enlace",
   "pendientes": 1,
-  "actualizado": "2026-10-14T04:27:56Z",
+  "actualizado": "2026-10-14T04:36:52Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
