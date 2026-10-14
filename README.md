@@ -9,4 +9,6 @@ Estado del trabajo de Claude en el proyecto Ari. Lo lee el widget de la app **Ar
   - `pendientes`: cuántas cosas te esperan en el tablero.
   - `actualizado`: hora de la última actualización (UTC). Si pasa mucho tiempo sin cambiar mientras `activo` es true, el widget avisa que la sesión probablemente se cerró.
 
-Este repositorio es privado. El widget lo lee con una llave de solo lectura que solo da acceso a este repositorio.
+- `sesion`: enlace a la sesión de Claude Code donde se escribe "sigue".
+
+Este repositorio es **público**: desde Ari Estado 0.3.0 el widget lo lee sin llave. Por eso aquí nunca va nada sensible (ni llaves, ni datos personales, ni pláticas): solo el avance del trabajo. Si algún día vuelve a ser privado, Ari Estado acepta una llave de solo lectura en "Opciones avanzadas".
