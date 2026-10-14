@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Compilando ARI 0.57 (informes automáticos y actualizarse desde GitHub)",
-  "paso": 4,
-  "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Mandarte el enlace de la 0.57",
+  "haciendo": "Compilando ARI 0.58 (tus apps son sus herramientas)",
+  "paso": 1,
+  "pasos": 2,
+  "progreso": 60,
+  "siguiente": "Mandarte los enlaces de 0.57 y 0.58",
   "pendientes": 18,
-  "actualizado": "2026-10-14T20:42:11Z",
+  "actualizado": "2026-10-14T20:53:10Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
