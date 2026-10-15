@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Compilando ARI Trader 0.62 (enseña, modelo y auto-actualización)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "Listo: ARI 0.64 y primera ARI Trader",
+  "paso": 4,
   "pasos": 4,
-  "progreso": 80,
-  "siguiente": "Mandarte el APK de ARI Trader",
+  "progreso": 100,
+  "siguiente": "Esperar tus pruebas",
   "pendientes": 20,
-  "actualizado": "2026-10-15T01:04:34Z",
+  "actualizado": "2026-10-15T01:28:02Z",
   "sesion": "https://claude.ai/code/session_01CyDGkuvFNwm1XX6rPSD4G1"
 }
