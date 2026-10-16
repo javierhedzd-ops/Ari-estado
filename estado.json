@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "ARI 0.67.0: que \"busca actualizaciones\" baje de Releases (Fase 1 cerrada: A, B y C aprobados)",
-  "paso": 3,
+  "activo": false,
+  "haciendo": "ARI 0.67.0 lista en Releases: se actualiza sola desde ahí. Fase 1 cerrada",
+  "paso": 5,
   "pasos": 5,
-  "progreso": 60,
-  "siguiente": "Compilando en GitHub; cuando salga, te mando el enlace de la 0.67.0 y los pasos del permiso Contents. Mientras, hay fichas nuevas de la Fase 2 en el tablero",
-  "pendientes": 8,
-  "actualizado": "2026-10-16T19:40:00Z",
+  "progreso": 100,
+  "siguiente": "Tú: instala la 0.67.0 y agrega el permiso Contents (ficha 'Probar ARI 0.67.0'), y contesta las fichas de la Fase 2. Después escribe \"sigue\" en la sesión",
+  "pendientes": 9,
+  "actualizado": "2026-10-16T19:55:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
