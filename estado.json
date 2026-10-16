@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Fase 1: sacar el APK 0.66.1 por GitHub Releases (privado), porque el espacio de artefactos sigue lleno",
-  "paso": 4,
+  "activo": false,
+  "haciendo": "Fase 1: criterio A aprobado y ARI 0.66.1 lista en Releases. Esperando tus pruebas B y C",
+  "paso": 5,
   "pasos": 5,
-  "progreso": 85,
-  "siguiente": "Revisar el cambio del workflow, compilar y mandarte el enlace directo del APK",
-  "pendientes": 5,
-  "actualizado": "2026-10-16T13:25:00Z",
+  "progreso": 100,
+  "siguiente": "Tú: instala la 0.66.1 (ficha 'Fase 1: respaldo y pruebas B y C') y haz las pruebas. Después escribe \"sigue\" en la sesión",
+  "pendientes": 6,
+  "actualizado": "2026-10-16T14:00:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
