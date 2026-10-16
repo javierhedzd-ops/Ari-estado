@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Fase 1, criterio A: compilación limpia de ARI 0.66.1",
+  "haciendo": "Fase 1: 0.66.1 compila limpia y pasan las pruebas nuevas de la base de datos; revisando B y C contra el código",
   "paso": 4,
   "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Run en verde cuando GitHub libere el espacio de artefactos y mandarte el enlace de la 0.66.1",
+  "progreso": 85,
+  "siguiente": "Run en verde con el APK cuando GitHub libere el espacio de artefactos (desde las 15:00 UTC) y mandarte el enlace de la 0.66.1",
   "pendientes": 5,
-  "actualizado": "2026-10-16T09:36:00Z",
+  "actualizado": "2026-10-16T10:07:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
