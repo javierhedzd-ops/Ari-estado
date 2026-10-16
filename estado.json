@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Fase 1: criterio A aprobado y ARI 0.66.1 lista en Releases. Esperando tus pruebas B y C",
-  "paso": 5,
+  "activo": true,
+  "haciendo": "ARI 0.67.0: que \"busca actualizaciones\" baje de Releases (Fase 1 cerrada: A, B y C aprobados)",
+  "paso": 1,
   "pasos": 5,
-  "progreso": 100,
-  "siguiente": "Tú: instala la 0.66.1 (ficha 'Fase 1: respaldo y pruebas B y C') y haz las pruebas. Después escribe \"sigue\" en la sesión",
-  "pendientes": 6,
-  "actualizado": "2026-10-16T14:00:00Z",
+  "progreso": 10,
+  "siguiente": "Programar el cambio, revisarlo, compilar y mandarte el enlace con los pasos para darle a la llave el permiso Contents",
+  "pendientes": 3,
+  "actualizado": "2026-10-16T19:05:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
