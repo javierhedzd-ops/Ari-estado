@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "Fase 1: 0.66.1 compila limpia y pasan las pruebas de la base de datos. En pausa hasta que GitHub libere el espacio de artefactos",
+  "activo": true,
+  "haciendo": "Fase 1: sacar el APK 0.66.1 por GitHub Releases (privado), porque el espacio de artefactos sigue lleno",
   "paso": 4,
   "pasos": 5,
   "progreso": 85,
-  "siguiente": "15:55 UTC: la tarea programada relanza la compilación; si sube el APK, te mando el enlace de la 0.66.1. Mientras, puedes hacer el respaldo de la ficha 'Fase 1: respaldo y pruebas B y C'",
+  "siguiente": "Revisar el cambio del workflow, compilar y mandarte el enlace directo del APK",
   "pendientes": 5,
-  "actualizado": "2026-10-16T10:32:00Z",
+  "actualizado": "2026-10-16T13:25:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
