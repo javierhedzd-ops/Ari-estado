@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "0.69.0: voz confiable y WhatsApp por voz",
-  "paso": 1,
+  "haciendo": "0.69.0: voz confiable y WhatsApp por voz (WhatsApp listo; sigue el reconocedor de voz)",
+  "paso": 2,
   "pasos": 6,
-  "progreso": 10,
-  "siguiente": "WhatsApp: entender más formas, preguntar qué escribir y confirmar por voz",
+  "progreso": 35,
+  "siguiente": "Reconocedor que no tira tu frase ni se traba; 'Ari' sin saludo",
   "pendientes": 4,
-  "actualizado": "2026-10-17T06:02:29Z",
+  "actualizado": "2026-10-17T06:11:53Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
