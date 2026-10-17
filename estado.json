@@ -1,11 +1,11 @@
 {
-  "activo": true,
-  "haciendo": "Fase 2: Game Boost, primera parte (0.68.0): estado del teléfono y de Eden, solo lectura",
+  "activo": false,
+  "haciendo": "En pausa por pedido del usuario (ARI no funciona bien; esperando que me cuente qué pasa)",
   "paso": 4,
   "pasos": 5,
   "progreso": 80,
-  "siguiente": "Compilando en GitHub (revisión hecha y corregida); cuando salga, te aviso para que la pruebes",
+  "siguiente": "Esperar al usuario. No seguir con Game Boost hasta aclarar",
   "pendientes": 3,
-  "actualizado": "2026-10-17T00:45:00Z",
+  "actualizado": "2026-10-17T00:50:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
