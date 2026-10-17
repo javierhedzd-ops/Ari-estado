@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "0.69.0 lista para probar; herramientas de Claude instaladas; diseñando el botón \"Darle todo a ARI\"",
-  "paso": 1,
+  "haciendo": "0.70.0: botón \"Darle todo a ARI\" (programado; en revisión)",
+  "paso": 3,
   "pasos": 4,
-  "progreso": 15,
-  "siguiente": "Botón único de permisos (inventario en curso)",
+  "progreso": 70,
+  "siguiente": "Corregir lo que encuentre la revisión, compilar y mandarte la 0.70.0",
   "pendientes": 6,
-  "actualizado": "2026-10-17T11:23:50Z",
+  "actualizado": "2026-10-17T16:08:06Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
