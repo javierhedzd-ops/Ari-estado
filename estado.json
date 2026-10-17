@@ -1,11 +1,11 @@
 {
-  "activo": false,
-  "haciendo": "En pausa por pedido del usuario (ARI no funciona bien; esperando que me cuente qué pasa)",
-  "paso": 4,
+  "activo": true,
+  "haciendo": "Nuevo rumbo, la base de ARI: publicar la 0.68.0 e investigar cómo medir el rendimiento de Gemma",
+  "paso": 1,
   "pasos": 5,
-  "progreso": 80,
-  "siguiente": "Esperar al usuario. No seguir con Game Boost hasta aclarar",
+  "progreso": 10,
+  "siguiente": "Compilar la 0.68.0 y diseñar el banco de pruebas de Gemma (velocidad, memoria, GPU/CPU)",
   "pendientes": 3,
-  "actualizado": "2026-10-17T00:50:00Z",
+  "actualizado": "2026-10-17T01:10:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
