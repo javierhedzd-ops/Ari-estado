@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "La base de ARI: 0.68.0 publicada; diagnóstico de voz/WhatsApp en curso; siguiente versión: GPU, MTP y banco de pruebas",
-  "paso": 2,
-  "pasos": 5,
-  "progreso": 30,
-  "siguiente": "Juntar el diagnóstico de voz con las mejoras de rendimiento en la 0.69.0",
+  "haciendo": "0.69.0: voz confiable y WhatsApp por voz",
+  "paso": 1,
+  "pasos": 6,
+  "progreso": 10,
+  "siguiente": "WhatsApp: entender más formas, preguntar qué escribir y confirmar por voz",
   "pendientes": 4,
-  "actualizado": "2026-10-17T01:30:00Z",
+  "actualizado": "2026-10-17T06:02:29Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
