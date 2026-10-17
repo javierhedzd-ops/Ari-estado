@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "0.69.0: voz confiable y WhatsApp por voz (compilando en GitHub y en revisión)",
+  "haciendo": "0.69.0 compilando otra vez (corregido el error); revisando las 4 herramientas que pediste instalar",
   "paso": 5,
   "pasos": 6,
-  "progreso": 80,
-  "siguiente": "Si sale en verde: enlace de la 0.69.0 y qué probar",
+  "progreso": 85,
+  "siguiente": "Instalar lo que sea seguro y útil; enlace de la 0.69.0 cuando salga en verde",
   "pendientes": 4,
-  "actualizado": "2026-10-17T06:26:44Z",
+  "actualizado": "2026-10-17T10:58:54Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
