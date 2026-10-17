@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "Nuevo rumbo, la base de ARI: publicar la 0.68.0 e investigar cómo medir el rendimiento de Gemma",
-  "paso": 1,
+  "haciendo": "La base de ARI: 0.68.0 publicada; diagnóstico de voz/WhatsApp en curso; siguiente versión: GPU, MTP y banco de pruebas",
+  "paso": 2,
   "pasos": 5,
-  "progreso": 10,
-  "siguiente": "Compilar la 0.68.0 y diseñar el banco de pruebas de Gemma (velocidad, memoria, GPU/CPU)",
-  "pendientes": 3,
-  "actualizado": "2026-10-17T01:10:00Z",
+  "progreso": 30,
+  "siguiente": "Juntar el diagnóstico de voz con las mejoras de rendimiento en la 0.69.0",
+  "pendientes": 4,
+  "actualizado": "2026-10-17T01:30:00Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
