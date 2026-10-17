@@ -1,11 +1,11 @@
 {
   "activo": true,
-  "haciendo": "0.69.0 compilando otra vez (corregido el error); revisando las 4 herramientas que pediste instalar",
-  "paso": 5,
-  "pasos": 6,
-  "progreso": 85,
-  "siguiente": "Instalar lo que sea seguro y útil; enlace de la 0.69.0 cuando salga en verde",
-  "pendientes": 4,
-  "actualizado": "2026-10-17T10:58:54Z",
+  "haciendo": "0.69.0 lista para probar; herramientas de Claude instaladas; diseñando el botón \"Darle todo a ARI\"",
+  "paso": 1,
+  "pasos": 4,
+  "progreso": 15,
+  "siguiente": "Botón único de permisos (inventario en curso)",
+  "pendientes": 6,
+  "actualizado": "2026-10-17T11:23:50Z",
   "sesion": "https://claude.ai/code/session_01W86wJ2MPSpYipvKFUJBjeD"
 }
